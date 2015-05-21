@@ -26,7 +26,7 @@ title: 21세기 통계학을 배우는 방법
 
 현재 및 향후 통계학은 컴퓨터 과학과 밀접한 관계를 갖고 지속적으로 발전해 나갈 것으로 예상된다. 사실 통계학 뿐만 아니라 다른 모든 학문 분야가 `Computation-X` 라는 이름으로 진화하고 있다. 일부 예를 들면, 컴퓨터 생명공학(Computational Biology), 계산 통계학(Computational Statistics), 계산 물리학(Computational Physics), 컴퓨터 화학(Computational Chemistry) 등이 있다. 2010년 쟈넷윙 교수의 조사에 따르면 거의 모든 학문 분야가 컴퓨터와 연관이 되고 있으며 컴퓨터를 적극 활용하여 과학기술, 인문, 사회, 법과 제도 등 광범위한 융합이 나타나고 있다.
 
-![Computational X, 출처: Jeannette Wing (2010), Computational Thinking: What and Why?, Carnegie Mellon University](computational-x.png)
+![Computational X, 출처: Jeannette Wing (2010), Computational Thinking: What and Why?, Carnegie Mellon University](fig/computational-x.png)
 
 통계학도 기존 수학 및 이론 통계를 중심에 두고 컴퓨터를 접목하려는 시도도 있지만, 컴퓨터 과학 중심에서 통계학을 접근하는 움직임도 확연히 나타나고 있다. 동일한 통계학을 서로 다른 방식으로 학습할 수 있는 사례를 보여주고자 한다. 구글 데이터 과학자, David Diez가 중심이 된 무료 통계 교육 [OpenIntro](https://www.openintro.org/) 접근방법과, 컴퓨터 과학에 뿌리를 두고 있는 올린공대 Allen B. Downey 교수의 [Think Stats](https://www.openintro.org/) 접근법을 상세히 살펴본다. 하지만, 두가지 접근 방법 모두 무료로 원본 저작파일을 비롯하여 다양한 형태의 온라인 교재(PDF 등)도 저작권 걱정없이 다운로드 받을 수 있고 실생활과 밀접한 데이터를 가지고 R, SAS, 파이썬 등 소프트웨어를 가지고 직접 실행도 해볼 수 있으며, 해석한 결과를 감상할 수도 있고, 공개된 교육 방법을 취하고 있다는 점에서 공통점이 많다.
 
