@@ -3,8 +3,14 @@ layout: page
 title: 21세기 통계학을 배우는 방법
 ---
 
-## 세가지 사고체계
+> ## 통계청, 통계의 창 {.callout}
+>
+> 본고는 `통계의 창`에 기고 준비중인 글입니다.
+> 통계청에서 국민들의 통계에 대한 이해도를 제고하고 홍보하기 위해서 발간하는 것으로
+> 통계청의 소개 및 경제, 사회의 흐름을 볼수 있는 자료 들에 대한 안내를 하고 있습니다.
+>
 
+## 세가지 사고체계
 
 정부는 '14년 7월 전세계 경제, 사회를 비롯한 제반  환경이 컴퓨터 소프트웨어 중심사회로 급격히 변화하고 있다고 진단하고, 소프트웨어가 혁신과 성장, 가치창출의 중심이 되고, 개인•기업•국가의 경쟁력을 좌우하는 중요한 역할을 하고 있음에도 불구하고, 우리나라는 범정부적, 국민적 관심이 미흡한 상황이라고 진단하고, 미국, 영국, 이스라엘 등 선진국과 마찬가지로, 초•중•고에서 정보교육을 의무화하는 [2015 문이과 통합형 교육과정](http://www.moe.go.kr/web/100026/ko/board/view.do?bbsId=294&pageSize=10&currentPage=0&encodeYn=N&boardSeq=56874&mode=view) 확정고시를 하였다.
 
@@ -102,22 +108,27 @@ title: 21세기 통계학을 배우는 방법
 
 집체교육에 반대되는 혹은 보완되는 교육 개념으로 온라인 교육은 과거 라디오, TV, 인터넷 교육 등 기술의 발전과 더불어 진화해왔다. 2000년대 초반 미국 MIT 대학이 OCW (OpenCourseWare)로 모든 강의를 인터넷에 공개한 것이 얼마 지나지 않아 스탠포드 대학에서 Andrew Ng 교수의 기계학습(Machine Learning)과 Sebastian	Thrun 교수의 인공지능(Artificial Intelligence)을 인터넷 강의로 공개했는데 기존의 학습관리시스템(LMS, Learning Management System)가 수백 수천명을 교육했다면 온라인 공개수업은 기본이 수십만이 되는 엄청난 규모다. 하지만, 수강생이 많다고 전통적인 개념에서 비추어 봤을 때, 교육의 질이 떨어지거나 수강생 만족도가 결코 낮지 않다.
 
-![MOOC 계보](fig/MOOCs_and_Open_Education_Timeline.jpg)
+울산과학기술대에서 정리한 온라인 공개수업(MOOC) 계보는 MIC OCW, OER(Open Education Resource), Open University 를 1세대 MOOC로 봤을 때, 2000년대 중후반 2세대 MOOC를 거쳐서 2012년부터 edX, Udacity, Coursera, Future Learn으로 대표되는 3세대 MOOC 시대로 접어 들었다.
 
-### 코세라 (Coursera)
+![MOOC 계보, 출처: 울산과기대 범수균 교수](fig/MOOCs_and_Open_Education_Timeline.jpg)
 
-스탠포드 대학교의 컴퓨터 공학 교수 Andrew NG와 Daphone Koller가 설립하였으며, 코세라(Coursera)는 2012년 2월, 시험운영을 거쳐서, 그해 4월 공식적으로 운영시작 하였다. Widom가 데이터베이스과목, Andrew Ng이 기계학습 온라인 강의를 시작한 것에 뿌리를 두고 있다.
+[Udemy](https://www.udemy.com/), [Open Learning](https://www.openlearning.com/), [Alison](https://alison.com/), [Iversity](https://iversity.org/), [Canvas Networks](https://www.canvas.net/) 등 다양한 온라인 공개수업 업체 및 단체가 있지만, 가장 큰 그리고 영향력 있는 3개 업체로 [코세라(Coursera)](https://www.coursera.org/), [Edx](https://www.edx.org/), [Udacity](https://www.udacity.com/)를 꼽을 수 있다. 
 
-웹사이트 : https://www.coursera.org/
+|              | Coursera             | Edx         | Udacity                    |
+|--------------|----------------------|-------------|----------------------------|
+| 설립년도     | 2012년 4월           | 2012년 5월  | 2012년 2월                 |
+| 출발         | 스탠포드 (Andrew Ng) | 하바드, MIT | 스탠포드 (Sebastian Thrun) |
+| 학생수       | 5백만+               | 1.65백만    | 1.8백만                    |
+| 참여학교     | 107                  | 30          | 16                         |
+| 개설과목     | 532                  | 125         | 33                         |
+| 학생참여국적 | 190개국              | 225개국     | 190개국                    |
+출처: 온라인 공개수업 인포그래픽스 '14년 1월 기준, [http://moocs.com/index.php/mooc-infographic/](http://moocs.com/index.php/mooc-infographic/)
 
-### edX
+### 온라인 공개수업 3대 업체 
 
-2014년 10월 기준으로 300개가 넘은 과정과 3백만명의 수강생을 기록하고 있으며, 2012년 5월 MIT와 하바드 대학이 주측이 되어 서립되었다.
-
-MIT와 하바드 대학이 
-
-### 유대서티(Udacity)
-
-유대서티는 Sebastian Thrun, David Stavens, Mike Sokolsky 설립한 비영리 교육기관으로 Sebastian Thrun 교수가 스탠포드 대학에서 2011년 인공지능(Artificial Intelligence)을 인터넷 강의로 공개 것에 기원을 두고 있다.
+[코세라 (Coursera)](https://www.coursera.org/)는 스탠포드 대학교의 컴퓨터 공학 교수 Andrew NG와 Daphone Koller가 설립하였으며, 2012년 2월 시험운영을 거쳐서, 그해 4월 공식적으로 운영시작 하였다. 스탠포드 대학에서 Widom가 데이터베이스(Database)과목, Andrew Ng이 기계학습(Machine Learning) 온라인 강의를 시작한 것에 뿌리를 두고 있다. [edX](https://www.edx.org/)는 2014년 1월 125개 과목을 제공하였으며, 2014년 10월에는 300개가 넘은 과정과 3백만명의 수강생을 기록하고 있으며, 2012년 5월 MIT와 하바드 대학이 주측이 되어 설립되었다. [유대서티(Udacity)](https://www.udacity.com/)는 Sebastian Thrun, David Stavens, Mike Sokolsky 설립한 비영리 교육기관으로 Sebastian Thrun 교수가 스탠포드 대학에서 2011년 인공지능(Artificial Intelligence)을 인터넷 강의로 공개 것에 기원을 두고 있다.
 
 
+3대 온라인 공개수업 제공업체는 모두 영어를 기반으로 하여 초급부터 고급과정 기초 통계, 빅데이터, 데이터 과학 이름으로 다양한 교육과정을 무료로 제공하고 있으며, 만약 미화 50 달러만 지불하고 Coursera, edX, Udacity에서 제공하는 특정 교육과정을 이수하게 된다면 영미권 명문대학 자격증을 받게 되고 이를 [링크드인](https://www.linkedin.com/) 같은 구인 구직 사이트의 경력/학력 증명으로 연계하여 취업에 적극 활용하고 있다. 직원을 구하는 회사입장에서는 꼭 필요한 기술을 습득한 사람을 정확히 확인할 수 있고, 구직을 하고 있는 사람 입장에서는 미화 50 달러라는 저렴한 비용으로 영미권 명문대학의 자격증과 질높은 교육을 받을 수 있어 상호 도움이 되는 구조로 되어 있다.
+
+![미국 명문대학 코세라 자격증 예시](fig/coursera_cert.png)
