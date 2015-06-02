@@ -86,7 +86,7 @@ title: 21세기 통계학을 배우는 방법
     - 쵸코릿 공장 — 휴먼 인터페이스 설계
     - 컴퓨터와 대화 — 튜링 테스트
 
-컴퓨터과 과학 언플러그드는 가장 최신 버젼 3.1에 맞춰 [한글번역](http://www.xwmooc.net/csunplugged/book.html)이 완료되어 다양한 전자책 형태 뿐만 아니라 원본 문서 파일도 GitHub에 공개되어 인터넷에서 활용이 가능한다. `컴퓨터 과학 언플러그드`를 학습하고 나면 컴퓨터 언어를 선택하여 직접 컴퓨터와 대화를 시작한다.
+컴퓨터과 과학 언플러그드는 가장 최신 버젼 3.1에 맞춰 [한글번역](http://www.xwmooc.net/computational-thinking/)이 완료되어 다양한 전자책 형태 뿐만 아니라 원본 문서 파일도 GitHub에 공개되어 인터넷에서 활용이 가능한다. `컴퓨터 과학 언플러그드`를 학습하고 나면 컴퓨터 언어를 선택하여 직접 컴퓨터와 대화를 시작한다.
 
 컴퓨터 언어로 과거에는 베이직, C, Java 같은 언어로 시작을 했으나 최근에는 MIT 미디어랩에서 개발한 [스크래치](https://scratch.mit.edu/) 같은 교육용 블록 프로그래밍 언어(Educational Block Programing Language)를 사용한다. 특히, 창의성과 재미, 협업 등을 시나브로 블록놀이 프로그램을 통해서 익히게 된다.
 
@@ -147,7 +147,7 @@ title: 21세기 통계학을 배우는 방법
 [Udemy](https://www.udemy.com/), [Open Learning](https://www.openlearning.com/), [Alison](https://alison.com/), [Iversity](https://iversity.org/), [Canvas Networks](https://www.canvas.net/) 등 다양한 온라인 공개수업 업체 및 단체가 있지만, 가장 큰 그리고 영향력 있는 3개 업체로 [코세라(Coursera)](https://www.coursera.org/), [Edx](https://www.edx.org/), [Udacity](https://www.udacity.com/)를 꼽을 수 있다. 
 
 |              | Coursera             | Edx         | Udacity                    |
-|--------------|----------------------|-------------|----------------------------|
+|--------------|:--------------------:|:-----------:|---------------------------:|
 | 설립년도     | 2012년 4월           | 2012년 5월  | 2012년 2월                 |
 | 출발         | 스탠포드 (Andrew Ng) | 하바드, MIT | 스탠포드 (Sebastian Thrun) |
 | 학생수       | 5백만+               | 1.65백만    | 1.8백만                    |
